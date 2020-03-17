@@ -1,4 +1,3 @@
 # Homework
 
-Hi this is Homework.
-Homework is very boring.
+Hi this is homework and I am boring.
